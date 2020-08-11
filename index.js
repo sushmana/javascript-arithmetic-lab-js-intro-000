@@ -30,7 +30,7 @@ parseInt('n');
 return n;
 }
 
-function preserveDecimal(n){
+function preserveDecimal(float n){
 parseFloat('n');
 return n;
 }
